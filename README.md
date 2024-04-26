@@ -1,7 +1,7 @@
 # EC2_Ukonta
 First_repo_First_EC2_instance
 
-# Steps of Launching my First EC2 Instance
+## Steps of Launching my First EC2 Instance
 Having logged into my AWS account as a Root User, I navigated to the path Services> Compute> EC2> Launch Instance.
 
 In the 'Launch an Instance' page, I entered the name of my EC2 Instance as EC2_Ukonta.
